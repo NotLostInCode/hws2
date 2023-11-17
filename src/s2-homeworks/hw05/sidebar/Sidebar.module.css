@@ -11,12 +11,16 @@
 }
 
 .nav a {
+    text-decoration: none;
 }
 
 .nav a:hover {
+    color: #0066cc;
 }
 
 .nav a.active {
+    color: #0059b3;
+    text-decoration: underline;
 }
 .close {
 }

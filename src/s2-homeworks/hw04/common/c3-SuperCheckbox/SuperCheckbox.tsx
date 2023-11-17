@@ -28,7 +28,12 @@ const SuperCheckbox: React.FC<SuperCheckboxPropsType> = (
 ) => {
     const onChangeCallback = (e: ChangeEvent<HTMLInputElement>) => {
         // задачка на написание онченджа
-
+        if (onChangeChecked) {
+            onChangeChecked(e.currentTarget.checked)
+        }
+        if (onChange) {
+            onChange(e)
+        }
     }
 
     const finalInputClassName = s.checkbox
@@ -38,6 +43,7 @@ const SuperCheckbox: React.FC<SuperCheckboxPropsType> = (
         <label className={s.label}>
             <input
                 id={id}
+                checked={restProps.checked}
                 type={'checkbox'}
                 onChange={onChangeCallback}
                 className={finalInputClassName}
