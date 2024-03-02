@@ -1,24 +1,20 @@
 {
   "files": {
-    "main.css": "/hws2/static/css/main.ffde6988.css",
-    "main.js": "/hws2/static/js/main.2d8755cc.js",
-    "static/js/787.66cb4309.chunk.js": "/hws2/static/js/787.66cb4309.chunk.js",
-    "static/media/avatar.png": "/hws2/static/media/avatar.d947cb9d0d13765666b6.png",
-    "static/media/200.svg": "/hws2/static/media/200.2b4de1542921864a6ecb8c3301ea4670.svg",
-    "static/media/error.svg": "/hws2/static/media/error.9a99652a785b87f2f448e23e5da3045d.svg",
-    "static/media/500.svg": "/hws2/static/media/500.65355d1617c6a93fc93572680052f0b7.svg",
-    "static/media/400.svg": "/hws2/static/media/400.4e46e304dcfdcae89fcfb902d8863816.svg",
-    "static/media/404.svg": "/hws2/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
-    "static/media/closeOutline.svg": "/hws2/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
-    "static/media/checked.svg": "/hws2/static/media/checked.0b6a1bcf5d417ff0a947.svg",
-    "index.html": "/hws2/index.html",
-    "static/media/burger.svg": "/hws2/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
-    "main.ffde6988.css.map": "/hws2/static/css/main.ffde6988.css.map",
-    "main.2d8755cc.js.map": "/hws2/static/js/main.2d8755cc.js.map",
-    "787.66cb4309.chunk.js.map": "/hws2/static/js/787.66cb4309.chunk.js.map"
+    "main.css": "/coding-practice/static/css/main.64d74137.css",
+    "main.js": "/coding-practice/static/js/main.29424e1e.js",
+    "static/js/787.867b0225.chunk.js": "/coding-practice/static/js/787.867b0225.chunk.js",
+    "static/media/avatar.png": "/coding-practice/static/media/avatar.d947cb9d0d13765666b6.png",
+    "static/media/404.svg": "/coding-practice/static/media/404.dae7af4892f2a3abe805a174178919f2.svg",
+    "static/media/closeOutline.svg": "/coding-practice/static/media/closeOutline.91a6693133923612a0702421ab3e9923.svg",
+    "static/media/checked.svg": "/coding-practice/static/media/checked.0b6a1bcf5d417ff0a947.svg",
+    "index.html": "/coding-practice/index.html",
+    "static/media/burger.svg": "/coding-practice/static/media/burger.e4e6b98e4ee0b2dfcd76d02a9eed2e34.svg",
+    "main.64d74137.css.map": "/coding-practice/static/css/main.64d74137.css.map",
+    "main.29424e1e.js.map": "/coding-practice/static/js/main.29424e1e.js.map",
+    "787.867b0225.chunk.js.map": "/coding-practice/static/js/787.867b0225.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ffde6988.css",
-    "static/js/main.2d8755cc.js"
+    "static/css/main.64d74137.css",
+    "static/js/main.29424e1e.js"
   ]
 }
